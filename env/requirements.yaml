@@ -10,3 +10,6 @@ dependencies:
 - name: spring-service1
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.13
+- name: spring-service2
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
